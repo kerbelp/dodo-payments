@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dodo Payments"
+  short_description: "Checkout, refunds, top-ups and payment recovery"
+  default_prompt: "Use $dodo-payments to implement or troubleshoot Dodo checkout, subscriptions, prepaid top-ups, webhooks, refunds, and financial recovery."
